@@ -1,10 +1,10 @@
 # 💫 About Me:
-Hi👋, I'm Udit Nayak!<br>I'm a passionate Software Developer pursuing a Bachelor of Technology in Electronics and Telecommunication Engineering from Shri G.S. Institute of Technology and Science, Indore.<br><br>🔹 🚀 Tech Stack:<br>Languages: C, C++, Python (Basic), Data Structures & Algorithms<br>Frameworks: React.js (Basic), Next.js, Node.js, Express.js<br>Web Development: HTML, CSS, JavaScript, Bootstrap, PostgreSQL, MongoDB, Mongoose, Postman API<br><br>📧 Let's connect! Feel free to reach out via email at uditnayak1611@gmail.com or connect with me on **[LinkedIn](https://www.linkedin.com/in/udit-nayak-06579228b/)**.  <br><br>
+Hi👋, I'm Udit Nayak!<br>I'm a passionate Software Developer pursuing a Bachelor of Technology in Electronics and Telecommunication Engineering from Shri G.S. Institute of Technology and Science, Indore.<br><br>🔹 🚀 Tech Stack:<br>Languages: C, C++, Python (Basic), Data Structures & Algorithms<br>Frameworks: React.js (Basic), Next.js, Node.js, Express.js<br>Web Development: HTML, CSS, JavaScript, Bootstrap, PostgreSQL, MongoDB, Mongoose, Postman API<br><br>📧 Let's connect! Feel free to reach out via email at uditnayak1611@gmail.com or connect with me on **[LinkedIn](https://www.linkedin.com/in/uditnayak)**.  <br><br>
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/udiiit.t/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udit-nayak-06579228b/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uditnayak)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uditnayak1611@gmail.com)  
 
 
