@@ -54,7 +54,7 @@ Pre-Final Year B.Tech ECE @ SGSITS Indore (2027) · Co-founder of [ArowClick AI]
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Automation & Scraping**
+**Automation**
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
 
@@ -62,9 +62,11 @@ Pre-Final Year B.Tech ECE @ SGSITS Indore (2027) · Co-founder of [ArowClick AI]
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Udit-Nayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Udit-Nayak&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Udit-Nayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Udit-Nayak&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Udit-Nayak&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Udit-Nayak&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Udit-Nayak&theme=dark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -72,5 +74,4 @@ Pre-Final Year B.Tech ECE @ SGSITS Indore (2027) · Co-founder of [ArowClick AI]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uditnayak)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uditnayak1611@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://uditnayak.dev)
 [![ArowClick](https://img.shields.io/badge/ArowClick_AI-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.arowclick.com)
